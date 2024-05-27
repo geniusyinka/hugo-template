@@ -1,6 +1,6 @@
-# Hugo + IPFS Starter Kit
+# Hugo Starter Kit
 
-![image](https://github.com/fleekxyz/hugo-template/assets/55561695/29b1eca4-3c27-4285-a468-7737d8ce5920)
+![image](https://github.com/geniusyinka/hugo-template/blob/update/public/images/hugo-fleek.png)
 
 ## 🚀 Project Structure
 
